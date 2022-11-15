@@ -31,8 +31,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Design](.build/screenshots/mobile-design.png)
-![Desktop Design](.build/screenshots/active-states-basket-filled.png)
+![Mobile Design](./screenshots/mobile-design.png)
+![Desktop Design](./screenshots/active-states-basket-filled.png)
+![Slider](./screenshots/slider.gif)
 
 ### Links
 
